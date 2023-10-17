@@ -9,7 +9,7 @@ class BusReservationSystem:
 
         # Login Credentials
         self.credentials = {
-            "Mukund": "password2",
+            "Mukund": "password",
             "Riya": "password2",
             "Viraj": "password3"
         }
